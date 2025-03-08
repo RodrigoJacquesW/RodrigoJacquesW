@@ -2,7 +2,7 @@
 
 **Engenheiro Civil - Estudante de dados**
 
-Me chamo Rodrigo Jacques Wolff, tenho 25 anos e sou natural de Santa Catarina. Sou formado e atuo como Engenheiro Civil pelo IFSC - Instituto Federal de Santa Catarina. Sou estudante e entusiasta pela área de dados, busco me aprimorar em ferramentas de análise de dados, como Excel, Power BI, Python e SQL. Meu objetivo é compartilhar aqui meus projetos na área!
+Me chamo Rodrigo Jacques Wolff, tenho 25 anos e sou natural de Santa Catarina. Sou formado em Engenharia Civil pelo IFSC (Instituto Federal de Santa Catarina) e atuo na construção civil há cerca de cinco anos, atualmente trabalhando como engenheiro. Sou estudante e entusiasta pela área de dados, busco me aprimorar em ferramentas de análise de dados, como Excel, Power BI, Python e SQL. Meu objetivo é compartilhar aqui meus projetos na área!
 
 <a href="https://www.linkedin.com/in/Rodrigo-Jacques-Wolff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
