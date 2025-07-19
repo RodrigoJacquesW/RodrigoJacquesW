@@ -23,3 +23,5 @@ Me chamo Rodrigo Jacques Wolff, tenho 25 anos e sou natural de Santa Catarina. S
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJacquesW&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
+
+<img src="https://raw.githubusercontent.com/RodrigoJacquesW/RodrigoJacquesW/output/snake.svg" alt="Snake animation" />
