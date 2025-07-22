@@ -28,9 +28,10 @@ Me chamo Rodrigo Jacques Wolff, tenho 25 anos, sou natural de Santa Catarina e f
 
 ---
 
-### 🌐 Meu Linkedin
+### 🌐 Meus perfis
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Jacques-Wolff)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rodrigojacquesw)
 
 ---
 
