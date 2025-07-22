@@ -1,27 +1,41 @@
-# 👩🏻‍💻 Rodrigo Jacques Wolff
+# 👨🏻‍💻 Rodrigo Jacques Wolff
 
-**Engenheiro Civil - Estudante de dados**
+**Engenheiro Civil • Analista de Dados**
 
-Me chamo Rodrigo Jacques Wolff, tenho 25 anos e sou natural de Santa Catarina. Sou formado em Engenharia Civil pelo IFSC (Instituto Federal de Santa Catarina) e atuei na construção civil durante cinco anos, atualmente trabalho como analista de dados. Aproveito meu tempo livre para estudar engenharia de dados: Extrações, Automatizações, Pipeline, Versionamento, Banco de Dados e afins.
+Me chamo Rodrigo Jacques Wolff, tenho 25 anos, sou natural de Santa Catarina e formado em Engenharia Civil pelo IFSC (Instituto Federal de Santa Catarina). Atuei na construção civil por cinco anos e hoje trabalho como Analista de Dados. No tempo livre, estudo Engenharia de Dados, com foco em: extrações, automatizações, pipelines, versionamento, bancos de dados e mais.
 
-<a href="https://www.linkedin.com/in/Rodrigo-Jacques-Wolff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-### 📊 Estatísticas
+### 🚀 Tecnologias
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-<p>
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="left">
   <img 
-    align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=RodrigoJacquesW&show_icons=true&theme=tokyonight&include_all_commits=false" 
     alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoJacquesW&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    height="150"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJacquesW&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJacquesW&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    alt="Top Langs" 
+    height="150"
   />
+</p>
 
-<img src="https://raw.githubusercontent.com/RodrigoJacquesW/RodrigoJacquesW/output/snake.svg" alt="Snake animation" />
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rodrigo-Jacques-Wolff)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoJacquesW/RodrigoJacquesW/output/snake.svg" alt="Snake animation">
+</p>
