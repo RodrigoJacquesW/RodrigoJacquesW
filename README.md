@@ -2,7 +2,9 @@
 
 **Analista de Dados**
 
-Me chamo Rodrigo Jacques Wolff, tenho 25 anos, sou natural de Santa Catarina e formado em Engenharia Civil pelo IFSC (Instituto Federal de Santa Catarina). Atuei na construção civil por cinco anos e hoje trabalho como Analista de Dados. No tempo livre, estudo Engenharia de Dados, com foco em: extrações, automatizações, pipelines, versionamento, bancos de dados e mais.
+Olá, bem vindo ao meu perfil!
+
+Me chamo Rodrigo Jacques Wolff, tenho 25 anos, sou natural de Santa Catarina e formado em Engenharia Civil pelo IFSC (Instituto Federal de Santa Catarina). Atuei na construção civil por cinco anos e hoje trabalho como Analista de Dados. No tempo livre, estudo Engenharia de Dados, com foco em: extrações, automatizações, pipelines, versionamento e bancos de dados.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
