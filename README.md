@@ -26,11 +26,13 @@ I enjoy building end-to-end data solutions and continuously improving data quali
 
 ### Data & Analytics
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![DAX](https://img.shields.io/badge/-DAX-0C223F?style=flat&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ### Cloud & Engineering
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Dataform (GCP)](https://img.shields.io/badge/-Dataform%20(GCP)-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
